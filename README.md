@@ -1,116 +1,71 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mohammed+Shoyab;AI+%26+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Deep+Learning+%7C+Data+Science+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mohammed+Shoyab;AI+%26+Machine+Learning+Engineer;Building+Real-World+AI+Systems;Deep+Learning+%7C+Python+%7C+Data+Science" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/shoyab778">
-    <img src="https://komarev.com/ghpvc/?username=shoyab778&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/shoyab778?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0f172a"/>
   </a>
 
-  <a href="https://github.com/shoyab778?tab=followers">
-    <img src="https://img.shields.io/github/followers/shoyab778?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=shoyab778&style=for-the-badge&color=0ea5e9"/>
 
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20To-AI%2FML%20Roles-0ea5e9?style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" alt="AI" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5qdnA0eW95OGF0MnQxM2d5djI3ZmY5aDg1ZmQ0bnQ0d2xjaHk4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
+
+</div>
 
 # 🚀 About Me
 
-🎓 B.Tech in Computer Science Engineering (AI & ML)  
-🏆 9.2 CGPA  
-🤖 Passionate about Artificial Intelligence, Deep Learning & Full Stack AI Systems  
-📊 Building intelligent applications that solve real-world problems  
-⚡ Focused on Machine Learning, Data Science & AI Deployment  
+```yaml
+Name: Mohammed Shoyab
+Role: AI & Machine Learning Engineer
+Focus: Building Production-Ready AI Systems
+Skills: Machine Learning • Deep Learning • Full Stack AI
+```
+
+💡 Passionate about solving real-world problems using AI, Deep Learning, and scalable intelligent systems.
 
 ---
 
-# 💡 What I Do
-
-✔ Build Machine Learning & Deep Learning Models  
-✔ Create Full Stack AI Applications  
-✔ Develop Production-Ready AI Systems  
-✔ Work on Real-Time AI Solutions  
-✔ Transform Data into Actionable Intelligence  
-
----
-
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,sql,javascript,html,css" />
-
----
-
-### 🤖 AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNN-DeepLearning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LSTM-NeuralNetworks-red?style=for-the-badge"/>
-
----
-
-### 📊 Data Analytics
-<img src="https://img.shields.io/badge/Pandas-DataAnalysis-black?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-ScientificComputing-blue?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge"/>
-
----
-
-### 🌐 Backend & Tools
-<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,git,github,docker,linux,vscode,mysql" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Featured Projects
 
-## 🧠 Advanced Seizure Prediction Using EEG
-
-🔹 Deep Learning system using CNN + LSTM  
-🔹 Achieved **96% Accuracy**  
-🔹 Real-time EEG signal classification  
-🔹 Continual Learning integration  
-🔹 Low-latency prediction pipeline  
-
-🛠️ Tech Used:
-`Python` `TensorFlow` `CNN` `LSTM` `Deep Learning`
+## 🔹 Advanced EEG Seizure Prediction
+✔ 96% Accuracy  
+✔ CNN + LSTM Architecture  
+✔ Real-Time Prediction System  
 
 ---
 
-## 🏥 Medical Disease Recommendation System
-
-🔹 Predicts diseases using symptoms  
-🔹 Achieved **93% Accuracy**  
-🔹 Personalized medicine & diet recommendations  
-🔹 REST API integrated full-stack application  
-
-🛠️ Tech Used:
-`Python` `Flask` `Scikit-Learn` `REST APIs`
+## 🔹 Medical Disease Recommendation System
+✔ AI-Powered Healthcare Predictions  
+✔ Full Stack ML Application  
+✔ Personalized Recommendations  
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoyab778&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shoyab778&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shoyab778&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyab778&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoyab778&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </p>
 
@@ -118,17 +73,10 @@
 
 # 🏆 Achievements
 
-🥇 Winner — College Coding Contest 2025  
-👑 Student Board President — AITS Kadapa  
-🚀 Built 10+ AI/ML Projects  
-📊 Delivered Real-World AI Solutions  
-
----
-
-# 📜 Certifications
-
-✔ Google Cloud Computing Foundations — Google  
-✔ Machine Learning with Python — CodSoft  
+✨ 10+ AI Projects Built  
+✨ 96% Model Accuracy  
+✨ AI/ML Internships Completed  
+✨ College Coding Contest Winner  
 
 ---
 
@@ -136,57 +84,32 @@
 
 <p align="center">
 
+<a href="https://github.com/shoyab778">
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
+</a>
+
 <a href="https://linkedin.com/in/shaik-mohammed-shoyab-03863b200">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
 
 <a href="mailto:smdshoyab07@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<a href="https://github.com/shoyab778">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shoyab778/shoyab778/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=shoyab778&theme=algolia&no-frame=true&row=1&column=6"/>
 
----
-
-# ⚡ Developer Mindset
-
-```python
-class MohammedShoyab:
-
-    def __init__(self):
-        self.role = "AI & ML Engineer"
-        self.skills = [
-            "Machine Learning",
-            "Deep Learning",
-            "Python",
-            "Data Science"
-        ]
-
-    def mission(self):
-        return "Building AI systems that solve real-world problems 🚀"
-
-me = MohammedShoyab()
-print(me.mission())
-```
+</div>
 
 ---
 
-<h3 align="center">
-💡 Building Production-Ready AI Systems That Create Real Impact
-</h3>
+<div align="center">
 
-<h4 align="center">
-⭐ Star my repositories if you like my work ⭐
-</h4>
+### 💻 Building AI Systems That Create Real Impact 🚀
+
+</div>
