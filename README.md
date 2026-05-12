@@ -1,266 +1,192 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Mohammed+Shoyab;AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Data+Science+%7C+Full+Stack+AI;Building+Production-Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mohammed+Shoyab;AI+%26+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Deep+Learning+%7C+Data+Science+%7C+Python" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/shoyab778">
+    <img src="https://komarev.com/ghpvc/?username=shoyab778&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+  <a href="https://github.com/shoyab778?tab=followers">
+    <img src="https://img.shields.io/github/followers/shoyab778?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
   </a>
 
-  <img src="https://img.shields.io/badge/AI%20Engineer-Professional-blue?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5qdnA0eW95OGF0MnQxM2d5djI3ZmY5aDg1ZmQ0bnQ0d2xjaHk4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 🚀 About Me
 
 🎓 B.Tech in Computer Science Engineering (AI & ML)  
-🏆 **9.2 CGPA**  
-🤖 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**  
-⚡ Building scalable **AI-powered applications** with real-world impact  
-📊 Experienced in **Data Analytics, Model Training & Full Stack AI Systems**  
-🌍 Focused on solving real-world problems using intelligent systems  
+🏆 9.2 CGPA  
+🤖 Passionate about Artificial Intelligence, Deep Learning & Full Stack AI Systems  
+📊 Building intelligent applications that solve real-world problems  
+⚡ Focused on Machine Learning, Data Science & AI Deployment  
 
 ---
 
-# 💼 Professional Profile
+# 💡 What I Do
 
-✔ Machine Learning Engineer  
-✔ Deep Learning Enthusiast  
-✔ Data Science Practitioner  
-✔ AI Product Developer  
-✔ Full Stack AI Builder  
-
-💡 Specialized In:
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- Continual Learning
-- Predictive Analytics
-- REST APIs
-- AI Deployment
+✔ Build Machine Learning & Deep Learning Models  
+✔ Create Full Stack AI Applications  
+✔ Develop Production-Ready AI Systems  
+✔ Work on Real-Time AI Solutions  
+✔ Transform Data into Actionable Intelligence  
 
 ---
 
-# ⚡ Tech Arsenal
+# 🛠️ Tech Stack
 
 <div align="center">
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,sql,javascript,html,css" />
 
 ---
 
-## 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 <img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/CNN-DeepLearning-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LSTM-NeuralNetworks-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-ArtificialIntelligence-green?style=for-the-badge"/>
 
 ---
 
-## 📊 Data Analytics & Visualization
-<img src="https://skillicons.dev/icons?i=tableau" />
-
+### 📊 Data Analytics
 <img src="https://img.shields.io/badge/Pandas-DataAnalysis-black?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-ScientificComputing-blue?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/PowerBI-BusinessIntelligence-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge"/>
 
 ---
 
-## 🌐 Backend & Tools
-<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,linux,vscode,docker" />
+### 🌐 Backend & Tools
+<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,docker,linux,vscode" />
 
 </div>
 
 ---
 
-# 🔥 Experience
-
-## 🧠 Machine Learning Intern — CodSoft
-📅 Jan 2025 – Mar 2025
-
-✅ Built supervised & unsupervised ML models  
-✅ Achieved **92% model accuracy**  
-✅ Developed feature engineering pipelines  
-✅ Reduced training time by **30%**  
-✅ Performed hyperparameter tuning & cross-validation  
-
----
-
-## 📊 Data Analytics Intern — SmartBridge (APSCHE)
-📅 Apr 2025 – Jun 2025
-
-✅ Created interactive Tableau dashboards  
-✅ Implemented ETL workflows  
-✅ Improved reporting efficiency by **25%**  
-✅ Generated actionable business insights  
-
----
-
-# 🚀 Featured AI Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
+# 🚀 Featured Projects
 
 ## 🧠 Advanced Seizure Prediction Using EEG
 
-### 🔹 Features
-- 96% Accuracy
-- CNN + LSTM Architecture
-- Continual Learning
-- Real-Time Detection
-- Automated Alert System
+🔹 Deep Learning system using CNN + LSTM  
+🔹 Achieved **96% Accuracy**  
+🔹 Real-time EEG signal classification  
+🔹 Continual Learning integration  
+🔹 Low-latency prediction pipeline  
 
-### 🛠 Tech Stack
-`Python` `TensorFlow` `CNN` `LSTM`
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg0dnV5ZThxYTVvZ2N5cTZ3ZmN5MTRtOW9zY3A1cWdxbmJjZ2JnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+🛠️ Tech Used:
+`Python` `TensorFlow` `CNN` `LSTM` `Deep Learning`
 
 ---
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%"/>
-
-</td>
-
-<td width="50%">
-
 ## 🏥 Medical Disease Recommendation System
 
-### 🔹 Features
-- Disease Prediction
-- 93% Accuracy
-- Medicine Suggestions
-- Diet Recommendations
-- Exercise Planning
+🔹 Predicts diseases using symptoms  
+🔹 Achieved **93% Accuracy**  
+🔹 Personalized medicine & diet recommendations  
+🔹 REST API integrated full-stack application  
 
-### 🛠 Tech Stack
+🛠️ Tech Used:
 `Python` `Flask` `Scikit-Learn` `REST APIs`
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
 # 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoyab778&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shoyab778&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyab778&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🏆 Achievements & Leadership
+# 🏆 Achievements
 
 🥇 Winner — College Coding Contest 2025  
 👑 Student Board President — AITS Kadapa  
-🎯 Organized “Samsleshana-2K25” Technical Event  
-🚀 Ranked 1st among 100+ participants in algorithmic problem-solving  
+🚀 Built 10+ AI/ML Projects  
+📊 Delivered Real-World AI Solutions  
 
 ---
 
 # 📜 Certifications
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google-Cloud%20Computing%20Foundations-blue?style=for-the-badge&logo=googlecloud"/>
-
-<img src="https://img.shields.io/badge/CodSoft-Machine%20Learning%20with%20Python-red?style=for-the-badge"/>
-
-</div>
+✔ Google Cloud Computing Foundations — Google  
+✔ Machine Learning with Python — CodSoft  
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+<a href="https://linkedin.com/in/shaik-mohammed-shoyab-03863b200">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="mailto:smdshoyab07@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
+<a href="https://github.com/shoyab778">
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shoyab778/shoyab778/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-# ⚡ Developer Philosophy
+# ⚡ Developer Mindset
 
 ```python
 class MohammedShoyab:
 
     def __init__(self):
-        self.name = "Mohammed Shoyab"
-        self.role = "AI/ML Engineer"
-        self.skills = ["Python", "Machine Learning", "Deep Learning"]
+        self.role = "AI & ML Engineer"
+        self.skills = [
+            "Machine Learning",
+            "Deep Learning",
+            "Python",
+            "Data Science"
+        ]
 
-    def build(self):
-        return "Creating Intelligent Systems for the Future 🚀"
+    def mission(self):
+        return "Building AI systems that solve real-world problems 🚀"
 
 me = MohammedShoyab()
-print(me.build())
+print(me.mission())
 ```
 
 ---
 
 <h3 align="center">
-💡 “Transforming Data into Intelligence” 💡
+💡 Building Production-Ready AI Systems That Create Real Impact
 </h3>
 
 <h4 align="center">
-⭐ If you like my work, consider starring my repositories ⭐
+⭐ Star my repositories if you like my work ⭐
 </h4>
