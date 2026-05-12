@@ -4,10 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/shoyab778">
-    <img src="https://img.shields.io/github/followers/shoyab778?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0f172a"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=shoyab778&style=for-the-badge&color=0ea5e9"/>
 
   <img src="https://img.shields.io/badge/Open%20To-AI%2FML%20Roles-0ea5e9?style=for-the-badge"/>
 </p>
