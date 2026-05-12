@@ -55,19 +55,7 @@ Skills: Machine Learning • Deep Learning • Full Stack AI
 ✔ Full Stack ML Application  
 ✔ Personalized Recommendations  
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shoyab778&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoyab778&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</p>
-
----
 
 # 🏆 Achievements
 
@@ -96,15 +84,7 @@ Skills: Machine Learning • Deep Learning • Full Stack AI
 
 </p>
 
----
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shoyab778&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 <div align="center">
 
